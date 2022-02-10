@@ -8,6 +8,10 @@ Inspired by: https://github.com/robert8138/python-deliberate-practice
 
 - [Motivation](#motivation)
 - [Deliberate Practice](#deliberate-practice)
+- [Performance Goals](#performance-goals)
+- [Project Goals](#project-goals)
+- [Project Milestones](#project-milestones)
+- [References](#reference)
 
 ## Motivation
 
@@ -61,7 +65,7 @@ Practice by doing.
 
 - TBD
 
-## Reference
+## References
 
 > List of links and resources I've found helpful in my learning journey.
 
