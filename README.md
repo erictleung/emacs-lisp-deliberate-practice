@@ -37,7 +37,7 @@ Practice by doing.
   Steve Purcell, and John Wigley are all well-known Emacs uses to follow and
   learn from
 - **Build Practice Plans**:
-- **Targetd Practice**: I use Emacs daily, mostly for Org-Mode and organizing
+- **Targeted Practice**: I use Emacs daily, mostly for Org-Mode and organizing
   my task list
 - **Immediate Feedback**: I don't have any current use for Emacs Lisp
   professionally, so I'll have to rely on Exercism, StackOverflow, and Reddit
@@ -45,12 +45,14 @@ Practice by doing.
 
 ## Performance Goals
 
-- [Immediate]: learn to use basic functions in Emacs and how to run them correctly
+- [Immediate]: learn to use basic functions in Emacs and how to run them
+  correctly
 - [Shorter term, easiest to practice]: write basic functions for me to use or
   play around with
 - [Medium term, harder to practice]: be comfortable with writing a package for
   personal use
-- [Longer term, hardest to practice]: write my own packages and put them up on MELPA
+- [Longer term, hardest to practice]: write my own packages and put them up on
+  MELPA
 
 ## Project Goals
 
@@ -59,7 +61,8 @@ Practice by doing.
 - **Curriculum**: I want to go through the introduction programming in Emacs
   Lisp documentation, Emacs Lisp Exercism track, and read through the Emacs
   Package Developer's Handbook by alphapapa
-- **Timeframe**: comfort by the end of 2022
+- **Time frame**: comfort by the end of 2022 and publish package to MELPA
+  (ideas: resume words, estimate time to read text, socratic bot, choice words)
 
 ## Project Milestones
 
