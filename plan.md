@@ -19,11 +19,19 @@ Here are notes documenting my plan and progress to learning
   - [x] https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/ (for
         inspiration on an Emacs lifestyle and tips for useful packages)
 - [2022-03-17 Thu]
-  - [x] https://emacs.stackexchange.com/a/42451/1889 (example on let and let*)
+  - [x] https://emacs.stackexchange.com/a/42451/1889 (example on let and let\*)
   - [x] https://www.gnu.org/software/emacs/manual/html_node/elisp/Local-Variables.html
         (docs on let vs let*)
 - [ ] https://www.masteringemacs.org/reading-guide
 - [ ] Read about TRAMP https://www.gnu.org/software/tramp/
+- [ ] History of Lisp http://jmc.stanford.edu/articles/lisp.html
+- [ ] https://stackoverflow.com/questions/1894209/how-to-read-mentally-lisp-clojure-code
+- [ ] http://landoflisp.com/#guilds
+- [ ] https://wiki.c2.com/?SmugLispWeenie
+- [ ] https://www.defmacro.org/ramblings/lisp.html
+- [ ] http://articulate-lisp.com/
+- [ ] https://lgmoneda.github.io/2017/03/15/elisp-summary.html
+- [ ] https://twobithistory.org/2018/10/14/lisp.html
 
 ## Functions
 
@@ -32,7 +40,7 @@ Here are notes documenting my plan and progress to learning
 | [2022-03-15 Tue] | interactive              | Makes function available for interactive use |
 | [2022-03-16 Wed] | eval-expression          | M-: will execute function calls              |
 | [2022-03-16 Wed] | execute-extended-command | M-x will execute commands                    |
-| [2022-03-17 Thu] | let and let*             | Local bindings, * binds sequentially         |
+| [2022-03-17 Thu] | let and let\*            | Local bindings, * binds sequentially         |
 | [2022-03-17 Thu] | org-open-at-point        | Opens link at cursor point                   |
 
 ## Curious about
