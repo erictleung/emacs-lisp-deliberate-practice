@@ -34,6 +34,7 @@ Here are notes documenting my plan and progress to learning
 - [ ] https://lgmoneda.github.io/2017/03/15/elisp-summary.html
 - [ ] https://twobithistory.org/2018/10/14/lisp.html
 - [ ] http://mumble.net/~campbell/scheme/style.txt
+- [ ] https://emacsconf.org/2021/talks/forever/
 
 ## Functions
 
