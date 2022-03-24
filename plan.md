@@ -22,6 +22,7 @@ Here are notes documenting my plan and progress to learning
   - [x] https://emacs.stackexchange.com/a/42451/1889 (example on let and let\*)
   - [x] https://www.gnu.org/software/emacs/manual/html_node/elisp/Local-Variables.html
         (docs on let vs let*)
+- [x] https://stackoverflow.com/a/1894891/6873133 (tips on legible Lisp)
 - [ ] https://www.masteringemacs.org/reading-guide
 - [ ] Read about TRAMP https://www.gnu.org/software/tramp/
 - [ ] History of Lisp http://jmc.stanford.edu/articles/lisp.html
@@ -32,6 +33,7 @@ Here are notes documenting my plan and progress to learning
 - [ ] http://articulate-lisp.com/
 - [ ] https://lgmoneda.github.io/2017/03/15/elisp-summary.html
 - [ ] https://twobithistory.org/2018/10/14/lisp.html
+- [ ] http://mumble.net/~campbell/scheme/style.txt
 
 ## Functions
 
