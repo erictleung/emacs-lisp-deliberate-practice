@@ -78,3 +78,4 @@ Practice by doing.
   Manual](https://www.gnu.org/software/emacs/manual/elisp.html)
 - [The Emacs Package Developer's
   Handbook](https://github.com/alphapapa/emacs-package-dev-handbook)
+- [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
