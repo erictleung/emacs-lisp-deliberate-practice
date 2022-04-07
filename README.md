@@ -79,3 +79,4 @@ Practice by doing.
 - [The Emacs Package Developer's
   Handbook](https://github.com/alphapapa/emacs-package-dev-handbook)
 - [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
+- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
