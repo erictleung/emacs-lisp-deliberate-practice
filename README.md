@@ -80,3 +80,4 @@ Practice by doing.
   Handbook](https://github.com/alphapapa/emacs-package-dev-handbook)
 - [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
+- [Emacs Mini Manual](https://tuhdo.github.io/emacs-tutor.html)
